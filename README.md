@@ -1,2 +1,3 @@
-This is a virtual environment managed by Pipenv. With Pipenv, I install packages with pipenv instead of manually activating my venv and using pip.
-# DataScienceMeetup
+# Data Science Meetup at the Clubhouse
+
+[Link to notebook](getting_started.ipynb)
