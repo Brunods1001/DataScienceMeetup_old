@@ -18,37 +18,15 @@ The more we expand our skills, the more we will be able to do. After mastering t
 
 
 ### Basics
-<ul>
-    <li>
-        [Installing Python](getting_started.html)
-    </li>
-    <li>
-        [Introduction to Python](introduction_to_python.html)
-    </li>
-    <li>
-        [Loading data with Pandas and visualizing with Matplotlib](introduction_to_pandas_matplotlib.html)
-    </li>
-    <li>
-        [Using Numpy](introduction_to_numpy.html)
-    </li>    
-</ul>
+- [Installing Python](getting_started.html)
+- [Introduction to Python](introduction_to_python.html)
+- [Loading data with Pandas and visualizing with Matplotlib](introduction_to_pandas_matplotlib.html)
+- [Using Numpy](introduction_to_numpy.html)
+
 
 
 ### Machine learning
-<ul>
-    <li>
-        [Supervised learning with Scikit-learn](getting_started.html)
-    </li>
-    <li>
-        [Introduction to Python](introduction_to_python.html)
-    </li>
-    <li>
-        [Loading data with Pandas and visualizing with Matplotlib](introduction_to_pandas_matplotlib.html)
-    </li>
-    <li>
-        [Using Numpy](introduction_to_numpy.html)
-    </li>    
-</ul>
-    
-
-
+- [Supervised learning with Scikit-learn](getting_started.html)
+- [Introduction to Python](introduction_to_python.html)
+- [Loading data with Pandas and visualizing with Matplotlib](introduction_to_pandas_matplotlib.html)
+- [Using Numpy](introduction_to_numpy.html)
