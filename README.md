@@ -1,9 +1,9 @@
 # Next meetup!
-[Facebook event](https://www.facebook.com/events/177046353584527/)
-[Meetup event](https://www.meetup.com/HackAugusta/events/259268169/)
+- [Facebook event](https://www.facebook.com/events/177046353584527/)
+- [Meetup event](https://www.meetup.com/HackAugusta/events/259268169/)
 
 
-__**Reminder**_
+__**Reminder**__
 <blockquote>
     <h4><i>Any sufficiently advanced technology is indistinguishable from magic.</i></h4>
     <p>- Arthur C. Clarke</p>
