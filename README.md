@@ -16,20 +16,5 @@ The more we expand our skills, the more we will be able to do. After mastering t
 
 ## Notebooks
 
-
-### Meetup notebooks
-- [Visualizations and machine learning with the Titanic dataset](visualizing and predicting titanic survival.html)
-
-
 ### Basics
 - [Installing Python](getting_started.html)
-- [Introduction to Python](introduction_to_python.html)
-- [Loading data with Pandas and visualizing with Matplotlib](introduction_to_pandas_matplotlib.html)
-- [Using Numpy](introduction_to_numpy.html)
-
-
-### Machine learning
-- [Supervised learning with Scikit-learn](getting_started.html)
-- [Introduction to Python](introduction_to_python.html)
-- [Loading data with Pandas and visualizing with Matplotlib](introduction_to_pandas_matplotlib.html)
-- [Using Numpy](introduction_to_numpy.html)
