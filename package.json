@@ -1,0 +1,27 @@
+{
+  "name": "data_science_with_python",
+  "version": "1.0.0",
+  "description": "## About",
+  "main": "index.js",
+  "dependencies": {
+    "3d-view": "^2.0.0",
+    "jupyterlab-plotly": "^1.5.0"
+  },
+  "devDependencies": {
+    "acorn": "^6.4.0",
+    "acorn-dynamic-import": "^4.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Brunods1001/DataScienceMeetup.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Brunods1001/DataScienceMeetup/issues"
+  },
+  "homepage": "https://github.com/Brunods1001/DataScienceMeetup#readme"
+}

@@ -7,7 +7,6 @@ verify_ssl = true
 pytest = "*"
 
 [packages]
-jupyterlab = "*"
 notebook = "*"
 matplotlib = "*"
 numpy = "*"
@@ -16,8 +15,11 @@ scikit-learn = "*"
 dovpanda = "*"
 ipython = "*"
 kaggle = "*"
-searborn = "*"
 seaborn = "*"
+plotly = "*"
+bokeh = "*"
+ipywidgets = "*"
+jupyterlab = "*"
 
 [requires]
 python_version = "3.8"
