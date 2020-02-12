@@ -1,4 +1,4 @@
-# Next meetup!
+# Next meetup! March 5th, 2020.
 - [Facebook event](https://www.facebook.com/events/177046353584527/)
 - [Meetup event](https://www.meetup.com/HackAugusta/events/259268169/)
 - Please bring a laptop with Python installed. Here's how to [install Python](getting_started.html).
@@ -9,7 +9,8 @@ __**Reminder**__
 <blockquote>
     <h4><i>Any sufficiently advanced technology is indistinguishable from magic.</i></h4>
     <p>- Arthur C. Clarke</p>
-</blockquote>        
+</blockquote>   
+___     
 
 ## About
 
