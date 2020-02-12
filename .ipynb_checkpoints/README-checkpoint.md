@@ -3,7 +3,7 @@
 - [Meetup event](https://www.meetup.com/HackAugusta/events/259268169/)
 - Please bring a laptop with Python installed. Here's how to [install Python](getting_started.html).
 
-</hr>
+___
 
 __**Reminder**__
 <blockquote>
