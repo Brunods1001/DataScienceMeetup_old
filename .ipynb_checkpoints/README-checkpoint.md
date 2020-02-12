@@ -1,4 +1,4 @@
-# Data science with Python at the Clubhouse
+# Mastering data science at the Clubhouse
 
 <blockquote>
     <h4><i>Any sufficiently advanced technology is indistinguishable from magic.</i></h4>
