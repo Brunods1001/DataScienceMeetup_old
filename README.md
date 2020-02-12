@@ -1,7 +1,9 @@
 # Next meetup!
 - [Facebook event](https://www.facebook.com/events/177046353584527/)
 - [Meetup event](https://www.meetup.com/HackAugusta/events/259268169/)
-___
+- Please bring a laptop with Python installed. Here's how to [install Python](getting_started.html).
+
+</hr>
 
 __**Reminder**__
 <blockquote>
