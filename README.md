@@ -35,7 +35,7 @@ We will learn:
 - And anything related to data science.
 
 __About yourself...__
-Tell us what you want to learn! Please fill out this [survey].(https://docs.google.com/forms/d/1nZhKjE0fzi65ZJXj339lNCnQ2lwpBdQzSWmmd9QErfE/viewform)
+Tell us what you want to learn! Please fill out this [survey](https://docs.google.com/forms/d/1nZhKjE0fzi65ZJXj339lNCnQ2lwpBdQzSWmmd9QErfE/viewform).
 
 ### Vision
 Data science paves roads to the edges of artificial intelligence research that will change the world in our lifetimes. The vision for this group is for us to master the basics of data science and move on to explore advanced topics in artificial intelligence and compete in machine learning in [Kaggle](www.kaggle.com). If we consistently meet, work hard, and foster a welcoming and collaborative environment, we will make this vision a reality.
