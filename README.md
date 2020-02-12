@@ -1,8 +1,3 @@
----
-title: My First Page
-layout: default
----
-
 # Data science with Python at the Clubhouse
 
 ## About
